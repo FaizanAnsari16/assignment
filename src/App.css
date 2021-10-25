@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.MuiTablePagination-actions{display: none;}
+.MuiTablePagination-displayedRows {
+  display: none;
+}
